@@ -75,5 +75,8 @@ Submissions on Pretalx will be open by 30 October.
 
 *   [Matthias Crauwels](https://www.linkedin.com/in/matthiascrauwels/) - Enterprise Customer Engineer, PlanetScale
 
+## More information
+
+[Website repository on GitHub](https://github.com/FOSDEM-Cloud-Native-Databases-DevRoom/fosdem-cloud-native-databases-devroom.github.io)
 
 [More information about the FOSDEM mailing list](https://lists.fosdem.org/listinfo/fosdem)
