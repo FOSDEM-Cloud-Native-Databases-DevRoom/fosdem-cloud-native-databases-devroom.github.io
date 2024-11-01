@@ -60,7 +60,9 @@ A few Notes:
 Go to the FOSDEM 2025 [Pretalx website](https://pretalx.fosdem.org/fosdem-2025/cfp) to submit your talks and
 select “Cloud Native Databases” in the Track dropdown menu. 
 
-Submissions on Pretalx will be open by 30 October.
+![Pretalx website - Cloud Native Databases - Submit](images/submit.png)
+
+[Let's get started](https://pretalx.fosdem.org/fosdem-2025/cfp)
 
 ## Contacts
 
