@@ -1,0 +1,7 @@
+title: Cloud Native Databases DevRoom at FOSDEM 2025
+description: We’re excited to announce the new Cloud Native Databases devroom for FOSDEM
+2025
+show_downloads: false
+emote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
