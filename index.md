@@ -2,10 +2,7 @@
 layout: default
 ---
 
-# Cloud Native Databases DevRoom at FOSDEM 2025
-
-We’re excited to announce the new Cloud Native Databases devroom for [FOSDEM
-2025](https://fosdem.org/). The purpose of this devroom is to discuss developing databases that
+The purpose of this devroom is to discuss developing databases that
 are designed to take advantage of the cloud native architecture in order to
 meet the demands of modern applications.
 
@@ -21,7 +18,7 @@ challenges ahead.
 
 ## Where
 
-FOSDEM 2025 will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/).
+[FOSDEM 2025](https://fosdem.org/2025/) will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/).
 
 ## Important Dates
 
@@ -77,6 +74,8 @@ Submissions on Pretalx will be open by 30 October.
 
 ## More information
 
-[Website repository on GitHub](https://github.com/FOSDEM-Cloud-Native-Databases-DevRoom/fosdem-cloud-native-databases-devroom.github.io)
+*   [DevRoom page on the FOSDEM website](https://lists.fosdem.org/pipermail/fosdem/2024q4/003567.html)
 
-[More information about the FOSDEM mailing list](https://lists.fosdem.org/listinfo/fosdem)
+*   [Website repository on GitHub](https://github.com/FOSDEM-Cloud-Native-Databases-DevRoom/fosdem-cloud-native-databases-devroom.github.io)
+
+*   [More information about the FOSDEM mailing list](https://lists.fosdem.org/listinfo/fosdem)
