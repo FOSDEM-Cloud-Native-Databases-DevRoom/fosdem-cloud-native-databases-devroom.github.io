@@ -55,6 +55,18 @@ A few Notes:
 *   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions.
 *   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., no sales pitches).
 
+## CFP Selection Committee 
+
+| Members (listed alphabetically by first name) | Organization |
+| --------------------------------------------- | ------------ |
+| [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB/PingCAP |
+| [Franck Pachot](https://www.linkedin.com/in/franckpachot/) | Yugabyte |
+| [Lori Lorusso](https://www.linkedin.com/in/lorilorusso/) | Percona | 
+| [Manan Gupta](https://www.linkedin.com/in/manan-100/) | Vitess/PlanetScale | 
+| [Rohit Nayak](https://www.linkedin.com/in/greenibis/) | Vitess/PlanetScale | 
+| [Sunny Bains](https://www.linkedin.com/in/bainssunny/) | TiDB/PingCAP |
+| [Valerie Parham-Thompson](https://www.linkedin.com/in/valerieparhamthompson/) | Yugabyte |
+
 ## To Submit
 
 Go to the FOSDEM 2025 [Pretalx website](https://pretalx.fosdem.org/fosdem-2025/cfp) to submit your talks and
