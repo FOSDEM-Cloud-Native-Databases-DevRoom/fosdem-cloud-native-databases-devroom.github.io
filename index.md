@@ -18,77 +18,66 @@ challenges ahead.
 
 ## Where
 
-[FOSDEM 2025](https://fosdem.org/2025/) will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/).
+[FOSDEM 2026](https://fosdem.org/2026/) will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2026/practical/transportation/).
 
 ## Important Dates
 
-*   CFP submission deadline: 1 December, 2024 (at ~23:55 Brussels time)
-*   Devroom schedule announced: 15 December, 2024
-*   Devroom takes place: **1 February, 2025** (in the afternoon)
+*   CFP submission deadline: 5 December, 2025 (at ~23:55 Brussels time)
+*   Devroom schedule announced: 15 December, 2025
+*   Devroom takes place: **31 January, 2026**
 
 ## Suggested Topics
 
-Since this is the first time we’re organizing our devroom, we don’t have
-examples from past FOSDEM that we can point to. However, here are some
-suggestions.
+* Evolution of new database architecture for cloud native environments (e.g., to address scalability, elasticity, reliability)
+* Integrating AI/ML workloads with distributed databases
+* How to ease/streamline database migration (especially from legacy databases)
+*  Achieving database upgrades without downtime
+* How to benchmark and tune distributed databases
+* Query optimization for cloud native databases
+* Tools/methodologies for monitoring, observability, optimizations, testing, etc.
+* Working with streaming data
+* Stories from end-users (both successes and failures)
+* Security and compliance for cloud native databases
+* State of open-source licenses and database communities
+* Emerging trends/use cases
 
-*   Evolution of new database architecture for cloud native environments (e.g., to address  scalability, elasticity, reliability)
-*   How to ease/streamline database migration (especially from legacy
-   databases)
-*   Security and compliance for cloud native databases
-*   Cloud cost optimization for users
-*   Achieving database upgrades without downtime
-*   How to benchmark and tune distributed databases
-*   Query optimization for cloud native databases
-*   Tools/methodologies for monitoring, observability, testing, etc.
-*   Working with streaming data
-*   Stories from end-users (both successes and failures)
-*   State of open-source licenses and database communities
-*   Emerging trends/use cases
+These are just suggestions and we encourage you to be creative with your proposals! You can also view accepted talks from the 2025 devroom at https://archive.fosdem.org/2025/schedule/track/databases/.
 
-These are just ideas and we encourage you to be creative with your
-proposals!
 
 A few Notes:
 
 *   You must be available in person to present your talk at FOSDEM.
-*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions.
+*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slotduration different than 25 minutes. 
 *   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., no sales pitches).
 
 ## CFP Selection Committee 
 
 | Members (listed alphabetically by first name) | Organization |
 | --------------------------------------------- | ------------ |
-| [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB/PingCAP |
-| [Franck Pachot](https://www.linkedin.com/in/franckpachot/) | Yugabyte |
-| [Lori Lorusso](https://www.linkedin.com/in/lorilorusso/) | Percona | 
-| [Manan Gupta](https://www.linkedin.com/in/manan-100/) | Vitess/PlanetScale | 
-| [Rohit Nayak](https://www.linkedin.com/in/greenibis/) | Vitess/PlanetScale | 
-| [Sunny Bains](https://www.linkedin.com/in/bainssunny/) | TiDB/PingCAP |
-| [Valerie Parham-Thompson](https://www.linkedin.com/in/valerieparhamthompson/) | Yugabyte |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD | 
+| TBD | TBD | 
+| TBD | TBD | 
 
 ## To Submit
 
-Go to the FOSDEM 2025 [Pretalx website](https://pretalx.fosdem.org/fosdem-2025/cfp) to submit your talks and
-select “Cloud Native Databases” in the Track dropdown menu. 
+Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and
+select “Databases” in the Track dropdown menu. 
 
-![Pretalx website - Cloud Native Databases - Submit](images/submit.png)
+![Pretalx website - Cloud Native Databases - Submit](images/submit-2026.png)
 
-[Let's get started](https://pretalx.fosdem.org/fosdem-2025/cfp)
+[Let's get started](https://pretalx.fosdem.org/fosdem-2026/cfp)
 
 ## Contacts
 
-*   [Raymond Paik](https://www.linkedin.com/in/raypaik/) - Servant Community Leader, PingCAP
-
-*   [Lori Lorusso](https://www.linkedin.com/in/lorilorusso/) - Head of Community, Percona
-
-*   [Franck Pachot](https://www.linkedin.com/in/franckpachot/) - Developer Advocate, YugabyteDB
+*   [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) - Technology Evangelist, Percona
 
 *   [Matthias Crauwels](https://www.linkedin.com/in/matthiascrauwels/) - Enterprise Customer Engineer, PlanetScale
+  
+*   [Ray Paik](https://www.linkedin.com/in/raypaik/) - Community Manager, TiDB
 
 ## More information
-
-*   [DevRoom page on the FOSDEM website](https://lists.fosdem.org/pipermail/fosdem/2024q4/003567.html)
 
 *   [Website repository on GitHub](https://github.com/FOSDEM-Cloud-Native-Databases-DevRoom/fosdem-cloud-native-databases-devroom.github.io)
 
