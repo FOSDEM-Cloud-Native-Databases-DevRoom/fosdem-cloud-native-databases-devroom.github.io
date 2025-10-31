@@ -8,9 +8,7 @@ Your suggestions for improvements are welcome, create Issues on Github.
 
 ## Announcement
 
-We’re excited to announce the return of Cloud Native Databases (or Databases for short) devroom for [FOSDEM
-2026](https://fosdem.org/2026/). The purpose of this devroom is to discuss developing databases that are designed to take advantage of the cloud native architecture in order to meet the demands of modern applications.
-
+We’re excited to announce the return of Cloud Native Databases (or Databases for short) devroom for [FOSDEM 2026](https://fosdem.org/2026/). The purpose of this devroom is to discuss developing databases that are designed to take advantage of the cloud native architecture in order to meet the demands of modern applications.
 
 Instead of focusing on a single technology or community, our goal is to
 bring open source database communities and developers together to share
@@ -23,9 +21,9 @@ FOSDEM 2026 will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium]
 
 ## Important Dates
 
-*   CFP submission deadline: 5 December, 2024 (at ~23:55 Brussels time)
+*   CFP submission deadline: 5 December, 2025 (at ~23:55 Brussels time)
 *   Devroom schedule announced: 15 December, 2025
-*   Devroom takes place: **31 January, 2026** (in the afternoon)
+*   Devroom takes place: **31 January, 2026**
 
 ## To Submit
 
