@@ -47,7 +47,7 @@ These are just suggestions and we encourage you to be creative with your proposa
 A few Notes:
 
 *   You must be available in person to present your talk at FOSDEM.
-*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slotduration different than 25 minutes. 
+*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slot duration different than 25 minutes. 
 *   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., no sales pitches).
 
 ## CFP Selection Committee 
