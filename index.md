@@ -31,7 +31,7 @@ challenges ahead.
 * Evolution of new database architecture for cloud native environments (e.g., to address scalability, elasticity, reliability)
 * Integrating AI/ML workloads with distributed databases
 * How to ease/streamline database migration (especially from legacy databases)
-*  Achieving database upgrades without downtime
+* Achieving database upgrades without downtime
 * How to benchmark and tune distributed databases
 * Query optimization for cloud native databases
 * Tools/methodologies for monitoring, observability, optimizations, testing, etc.
@@ -62,10 +62,9 @@ A few Notes:
 
 ## To Submit
 
-Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and
-select “Databases” in the Track dropdown menu. 
+Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and select “Databases” in the Track dropdown menu. 
 
-![Pretalx website - Cloud Native Databases - Submit](images/submit-2026.png)
+![Pretalx website - Databases - Submit](images/submit-2026.png)
 
 [Let's get started](https://pretalx.fosdem.org/fosdem-2026/cfp)
 

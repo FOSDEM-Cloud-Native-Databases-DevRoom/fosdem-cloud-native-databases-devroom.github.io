@@ -27,7 +27,6 @@ FOSDEM 2026 will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium]
 
 ## To Submit
 
-Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and
-select “Cloud Native Databases” in the Track dropdown menu. 
+Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and select “Databases” in the Track dropdown menu. 
 
 Submissions on Pretalx will be open by 30 October.
