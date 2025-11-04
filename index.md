@@ -60,7 +60,9 @@ A few Notes:
 | [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) | Percona | 
 | [Floor Drees](https://www.linkedin.com/in/floordrees/) | EDB | 
 | [Hari Krishna Sunder](https://www.linkedin.com/in/hari-db/) | Yugabyte | 
+| [Matt Lord](https://www.linkedin.com/in/mattallenlord/) | Vitess |
 | [Mattias Jonsson](https://www.linkedin.com/in/mjonss/) | TiDB | 
+| [Rohit Nayak](https://www.linkedin.com/in/greenibis/)| Vitess |
 
 ## To Submit
 
