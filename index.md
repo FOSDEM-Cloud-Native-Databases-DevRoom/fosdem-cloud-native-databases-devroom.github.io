@@ -52,13 +52,15 @@ A few Notes:
 
 ## CFP Selection Committee 
 
-| Members (listed alphabetically by first name) | Organization |
+| Members (listed alphabetically by first name) | Organization/Communituy |
 | --------------------------------------------- | ------------ |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD | 
-| TBD | TBD | 
-| TBD | TBD | 
+| [Alastair Turner](https://www.linkedin.com/in/decodableminion/)| Percona | 
+| [Anna Widenius](https://www.linkedin.com/in/anna-widenius-3a7320b8/) | MariaDB |
+| [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB |
+| [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) | Percona | 
+| [Floor Drees](https://www.linkedin.com/in/floordrees/) | EDB | 
+| [Hari Krishna Sunder](https://www.linkedin.com/in/hari-db/) | Yugabyte | 
+| [Mattias Jonsson](https://www.linkedin.com/in/mjonss/) | TiDB | 
 
 ## To Submit
 
