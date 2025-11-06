@@ -21,7 +21,7 @@ FOSDEM 2026 will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium]
 
 ## Important Dates
 
-*   CFP submission deadline: 5 December, 2025 (at ~23:55 Brussels time)
+*   CFP submission deadline: 3 December, 2025 (at ~23:55 Brussels time)
 *   Devroom schedule announced: 15 December, 2025
 *   Devroom takes place: **31 January, 2026**
 
