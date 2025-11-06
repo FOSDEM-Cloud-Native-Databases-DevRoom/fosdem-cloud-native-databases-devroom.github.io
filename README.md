@@ -4,11 +4,11 @@ Website: [https://fosdem-cloud-native-databases-devroom.github.io/](https://fosd
 
 Your suggestions for improvements are welcome, create Issues on Github.
 
-**CFP is open we are waiting for your submissions.**
+**CFP is open: we are waiting for your submissions.**
 
 ## Announcement
 
-We’re excited to announce the return of Cloud Native Databases (or Databases for short) devroom for [FOSDEM 2026](https://fosdem.org/2026/). The purpose of this devroom is to discuss developing databases that are designed to take advantage of the cloud native architecture in order to meet the demands of modern applications.
+We’re excited to announce the return of Databases devroom for [FOSDEM 2026](https://fosdem.org/2026/). The purpose of this devroom is to discuss developing databases that can meet the demands of modern applications.
 
 Instead of focusing on a single technology or community, our goal is to
 bring open source database communities and developers together to share
