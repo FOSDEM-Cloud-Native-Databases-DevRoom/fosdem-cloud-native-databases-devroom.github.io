@@ -3,13 +3,7 @@ layout: default
 ---
 
 The purpose of this devroom is to discuss developing databases that
-are designed to take advantage of the cloud native architecture in order to
-meet the demands of modern applications.
-
-Over the past decade, there have been many open source communities that
-developed distributed SQL databases to provide scalability, cost efficiency
-and manageability in the cloud. However, there is still work to be done for
-on-going challenges such as network latency and security.
+can meet the demands of modern applications.
 
 Instead of focusing on a single technology or community, our goal is to
 bring open source database communities and developers together to share
@@ -28,16 +22,16 @@ challenges ahead.
 
 ## Suggested Topics
 
-* Evolution of new database architecture for cloud native environments (e.g., to address scalability, elasticity, reliability)
-* Integrating AI/ML workloads with distributed databases
+* Evolution of new database architecture (e.g., to address scalability, elasticity, reliability in on-prem, distributed, and cloud deployments)
+* Integrating AI/ML workloads 
 * How to ease/streamline database migration (especially from legacy databases)
 * Achieving database upgrades without downtime
 * How to benchmark and tune distributed databases
-* Query optimization for cloud native databases
+* Query optimization 
 * Tools/methodologies for monitoring, observability, optimizations, testing, etc.
 * Working with streaming data
 * Stories from end-users (both successes and failures)
-* Security and compliance for cloud native databases
+* Security, compliance, and data governance
 * State of open-source licenses and database communities
 * Emerging trends/use cases
 
