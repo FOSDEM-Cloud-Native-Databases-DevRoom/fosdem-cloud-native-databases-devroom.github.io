@@ -46,7 +46,7 @@ A few Notes:
 
 ## CFP Selection Committee 
 
-| Members (listed alphabetically by first name) | Organization/Communituy |
+| Members (listed alphabetically by first name) | Organization/Community |
 | --------------------------------------------- | ------------ |
 | [Alastair Turner](https://www.linkedin.com/in/decodableminion/)| Percona | 
 | [Anna Widenius](https://www.linkedin.com/in/anna-widenius-3a7320b8/) | MariaDB |
