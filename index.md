@@ -31,7 +31,7 @@ challenges ahead.
 * Tools/methodologies for monitoring, observability, optimizations, testing, etc.
 * Working with streaming data
 * Stories from end-users (both successes and failures)
-* Security and compliance
+* Security, compliance, and data governance
 * State of open-source licenses and database communities
 * Emerging trends/use cases
 
