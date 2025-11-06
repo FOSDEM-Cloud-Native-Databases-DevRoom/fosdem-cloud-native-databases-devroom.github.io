@@ -53,6 +53,7 @@ A few Notes:
 | [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB |
 | [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) | Percona | 
 | [Floor Drees](https://www.linkedin.com/in/floordrees/) | EDB | 
+| [Frederic Descamps](https://www.linkedin.com/in/freddescamps/)| MySQL | 
 | [Hari Krishna Sunder](https://www.linkedin.com/in/hari-db/) | Yugabyte | 
 | [Matt Lord](https://www.linkedin.com/in/mattallenlord/) | Vitess |
 | [Mattias Jonsson](https://www.linkedin.com/in/mjonss/) | TiDB | 
