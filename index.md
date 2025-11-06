@@ -22,7 +22,7 @@ challenges ahead.
 
 ## Suggested Topics
 
-* Evolution of new database architecture (e.g., to address scalability, elasticity, reliability)
+* Evolution of new database architecture (e.g., to address scalability, elasticity, reliability in on-prem, distributed, and cloud deployments)
 * Integrating AI/ML workloads 
 * How to ease/streamline database migration (especially from legacy databases)
 * Achieving database upgrades without downtime
