@@ -50,7 +50,7 @@ A few Notes:
 | --------------------------------------------- | ------------ |
 | [Alastair Turner](https://www.linkedin.com/in/decodableminion/)| Percona | 
 | [Anna Widenius](https://www.linkedin.com/in/anna-widenius-3a7320b8/) | MariaDB |
-| [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB |
+| [Daniël van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB |
 | [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) | Percona | 
 | [Floor Drees](https://www.linkedin.com/in/floordrees/) | EDB | 
 | [Frederic Descamps](https://www.linkedin.com/in/freddescamps/)| MySQL | 
